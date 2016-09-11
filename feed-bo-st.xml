@@ -1,38 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-<title>Best Of Tech &amp; Startup:. ~2x curated episodes per week</title>
+<title>xzyxzy_BP_demo</title>
 <description>
-Curating &amp; reposting the ~2 best podcasts per week from the likes of a16z, recode, Tim Ferriss, TED, etc. 
-There are simply too many good podcasts out there, let us pick the best two each week for you. 
-Copyright is owned by the publisher, not this podcast, audio is streamed directly from publisher's servers.
+Custom podcast feed reposting other podcast episodes demonstration for BP. 
 </description>
 <language>en</language>
 <pubdate>
-Wed, 10 Aug 2016 09:00:00 +0000
+Sat, 10 Sep 2016 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Wed, 10 Aug 2016 09:00:00 +0000
+Sat, 10 Sep 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
-<url>http://i.imgur.com/DkQlI2k.jpg</url>
+<url>http://i.imgur.com/fulfIyq.jpg</url>
 </image>
 <itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>The Best Of Tech &amp; Startups</itunes:subtitle>
-<itunes:author>The Best Podcasts Episodes In Tech &amp; Startups Each Week</itunes:author>
+<itunes:subtitle>xzyxzy_BP_demo</itunes:subtitle>
+<itunes:author>xzyxzy_BP_demo</itunes:author>
 <itunes:summary>
-Curating &amp; reposting the ~2 best podcasts per week from the likes of a16z, recode, Tim Ferriss, TED, etc. 
-There are simply too many good podcasts out there, let us pick the best two each week for you. 
+Custom podcast feed reposting other podcast episodes demonstration for BP. 
 Copyright is owned by the publisher, not this podcast, audio is streamed directly from publisher's servers.
 </itunes:summary>
-<itunes:keywords>producthunt,product hunt,hunt,product</itunes:keywords>
+<itunes:keywords>xzyxzy_BP_demo</itunes:keywords>
 <itunes:owner>
-  <itunes:name>Best Of Tech &amp; Startup:. ~2x curated episodes per week</itunes:name>
-  <itunes:email>producthunt.bestof@gmail.com</itunes:email>
+  <itunes:name>xzyxzy_BP_demo</itunes:name>
+  <itunes:email>brainpickingspodcast@gmail.com</itunes:email>
 </itunes:owner>
-<itunes:image href="http://i.imgur.com/RowILM5.jpg"/>
-<itunes:category text="Technology"/>
-<itunes:category text="Business"/>
+<itunes:image href="http://i.imgur.com/fulfIyq.jpg"/>
+<itunes:category text="Society & Culture"/>
 
 
 
