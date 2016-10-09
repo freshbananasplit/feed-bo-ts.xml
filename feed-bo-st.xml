@@ -7,10 +7,10 @@ Custom podcast feed reposting other podcast episodes demonstration for BP.
 </description>
 <language>en</language>
 <pubdate>
-Sat, 10 Sep 2016 09:00:00 +0000
+Sat, 8 Oct Sep 2016 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Sat, 10 Sep 2016 09:00:00 +0000
+Sat, 8 Oct Sep 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000262247663-dgubfd-original.jpg</url>
@@ -31,6 +31,31 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 <itunes:category text="Education"/>
 
 
+  
+
+<item>
+<title>
+Brain Pickings Introduction for - On Being: Mary Oliver
+</title>
+<description>
+Podcast episode recommendations from Brain Pickings. 
+</description>
+<pubDate>Sat, 8 Oct 2016 09:00:00 +0000</pubDate>
+<itunes:author>Brain Pickings Podcast</itunes:author>
+<itunes:subtitle>
+Podcast episode recommendations from Brain Pickings. 
+</itunes:subtitle>
+<itunes:summary>
+Podcast episode recommendations from Brain Pickings. 
+</itunes:summary>
+<itunes:duration>01:55</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/286821948-brain-pickings-podcast-brainpickingsintro.mp3" length="0"/>
+</item>
+
+
+  
+  
 
 <item>
 <title>
